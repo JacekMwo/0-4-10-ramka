@@ -1,0 +1,9 @@
+.kwadrat {
+    width: 400px;
+    height: 400px;
+    border-left: 2px solid black;
+    background-color: rgb(17, 88, 29);
+    margin: auto;
+    margin-top: 15%;
+    border-radius: 15%;
+}
